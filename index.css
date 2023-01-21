@@ -87,7 +87,7 @@ a{
   width: 189px;
   height: 99px;
   border-radius: 59px;
-  color: rgb(0, 225, 255);
+  color: #e6e7e9;
   background-color: black;
   font-size: 55px;
   font-family: "Sofia", sans-serif;
@@ -108,13 +108,12 @@ h1 {
   font-size: 49px;
 }
   #Quoate{
-    width: 496px;
     height: 391px;
     border-radius: 135px;
     margin-left: 221px;
     margin-top: 75px;
     background-color: black;
-    color: rgb(0, 225, 255);
+    color: #e6e7e9;
     font-size: 55px;
     font-family: "Sofia", sans-serif;
     white-space:normal;
