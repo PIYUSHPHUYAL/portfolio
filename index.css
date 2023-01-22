@@ -9,6 +9,7 @@
     }
 
 nav{
+
   display: flex;
     background-color: #e6e7e9;
     margin-left: 359px;
@@ -33,7 +34,8 @@ a{
   margin-left: -240px;
 }
 
-#nav1{
+.nav1{
+  
   width: 100px;
   height: 40px;
   border-radius: 10px;
@@ -42,8 +44,12 @@ a{
   border-color:  #e6e7e9;
 
 }
+.nav1:hover {
+  background-color:#009ead;
+  transition: 0.9s;
+}
 
-#nav2{
+.nav2{
   width: 130px;
   height: 40px;
   border-radius: 10px;
@@ -52,8 +58,12 @@ a{
   border-color:  #e6e7e9;
 
 }
+.nav2:hover {
+  background-color:#009ead;
+  transition: 0.9s;
+}
 
-#nav3{
+.nav3{
   width: 130px;
   height: 40px;
   border-radius: 10px;
@@ -62,8 +72,12 @@ a{
   border-color:  #e6e7e9;
 
 }
+.nav3:hover {
+  background-color:#009ead;
+  transition: 0.9s;
+}
 
-#nav4{
+.nav4{
   width: 250px;
   height: 40px;
   border-radius: 10px;
@@ -72,8 +86,12 @@ a{
   border-color:  #e6e7e9;
 
 }
+.nav4:hover {
+  background-color:#009ead;
+  transition: 0.9s;
+}
 
-#nav5{
+.nav5{
   width: 170px;
   height: 40px;
   border-radius: 10px;
@@ -81,6 +99,10 @@ a{
   font-family:"Sofia", sans-serif;
   border-color:  #e6e7e9;
 
+}
+.nav5:hover {
+  background-color:#009ead;
+  transition: 0.9s;
 }
 
 #Msg{
