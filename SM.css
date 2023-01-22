@@ -103,3 +103,114 @@ a{
   background-color:#009ead;
   transition: 0.9s;
 }
+
+/* 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 450px;
+} */
+
+
+
+/* .fb{
+width: 100px;
+
+}
+
+
+
+.tt{
+width: 200px;
+margin-top: -7px;
+}
+
+
+
+
+.li{
+
+width: 115px;
+} */
+
+
+p{
+  color: black;
+  font-family: "Sofia", sans-serif;
+  font-size: 40px;
+  margin-left: 240px;
+  margin-top: 100px;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.bi{
+  padding: 15px;
+  font-size: 30px;
+  width: 90px;
+  height: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+.bi:hover{
+  opacity: 0.7;
+}
+
+
+.fa-facebook {
+  background: #0f37c6;
+  color: white;
+  margin-left: 500px;
+}
+
+
+.bi-tiktok {
+  background: #000000;
+  color: white;
+  margin-left: 200px;
+ 
+}
+
+.fa-linkedin {
+  background: #0392ff;
+  color: white;
+  margin-left: 200px;
+}
+
+.video{
+  width: 500px;
+  height: 529px;
+  margin-top: -28px;
+  margin-left: 246px;
+
+}
+h1{
+  font-family:"Sofia", sans-serif;
+ color:  black;
+ width: 500px;
+ height: 300px;
+ margin-left: 816px;
+ margin-top: -540px;
+
+ 
+}
+h2{
+  font-family:"Sofia", sans-serif;
+  color:  black;
+  margin-left: 1036px;
+  margin-top: 197px;
+}
