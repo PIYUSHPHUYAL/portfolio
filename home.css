@@ -4,8 +4,8 @@
     }
 
     body{
-  
-     background-color: #e6e7e9;
+      background: linear-gradient(to bottom, #e6e7e9 50%, #82e3ea 100%);
+     
     }
 
 nav{
@@ -105,7 +105,7 @@ a{
   transition: 0.9s;
 }
 
-#Msg{
+.Msg{
   width: 189px;
   height: 99px;
   border-radius: 59px;
@@ -116,6 +116,12 @@ a{
   margin-left: 446px;
   margin-top: 4px;
 }
+.Msg:hover{
+  background-color:#009ead;
+  transition: 0.8s;
+}
+
+
 #logo2{
   width: 600px;
   height: 803px;
@@ -125,44 +131,19 @@ a{
 
 h1 {
   font-family: "Sofia", sans-serif;
-  margin-top: -547px;
+  margin-top: -491px;
   margin-left: 408px;
   font-size: 49px;
 }
-  #Quoate{
+  .Quoate{
+    border-color: #e6e7e9;
     height: 391px;
-    border-radius: 135px;
-    margin-left: 221px;
-    margin-top: 75px;
-    background-color: black;
-    color: #e6e7e9;
+    margin-left: 331px;
+    margin-top: 73px;
+    color: #000000;
     font-size: 55px;
     font-family: "Sofia", sans-serif;
-    white-space:normal;
     width: 590px;
-  
 }
-  
-/* }
-#logo3{
-  width: 93px;
-      height: px;
-      height: 100px;
-      margin-bottom: -476px;
-      margin-left: 196px;
-}
-#logo4{
-  width: 195px; 
-  height: 107px;
-   margin-bottom: -479px;
-    margin-left: 126px;
-  }
-  
-  #logo5{
-    width: 118px;
-     height: 100px; 
-     margin-bottom: -476px;
-      margin-left: 84px; 
-    }
-     */
+
 
