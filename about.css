@@ -8,13 +8,20 @@
 body {
   background: linear-gradient(to bottom, #e6e7e9 50%, #82e3ea 100%);
 }
-
+#logo{
+  height:150px ;
+  width: 200px;
+  margin-top: -10px;
+  margin-right: 20px;
+  margin-bottom: -10px;
+  margin-left: -240px;
+}
 nav{
 
   display: flex;
     background-color: #e6e7e9;
     margin-left: 359px;
-    margin-top: -50px;
+    margin-top: -98px;
     align-items: center;
     column-gap: 40px;
     padding: 108px;
@@ -33,8 +40,8 @@ a{
   width: 100px;
   height: 40px;
   border-radius: 10px;
-  font-size: 22px;
-  font-family:"Sofia", sans-serif;
+  font-size: 19px;
+  font-family:'Courier New', Courier, monospace;
   border-color:  #e6e7e9;
 
 }
@@ -47,8 +54,8 @@ a{
   width: 130px;
   height: 40px;
   border-radius: 10px;
-  font-size: 22px;
-  font-family:"Sofia", sans-serif;
+  font-size: 19px;
+  font-family:'Courier New', Courier, monospace;
   border-color:  #e6e7e9;
 
 }
@@ -61,8 +68,8 @@ a{
   width: 130px;
   height: 40px;
   border-radius: 10px;
-  font-size: 22px;
-  font-family:"Sofia", sans-serif;
+  font-size: 19px;
+  font-family:'Courier New', Courier, monospace;
   border-color:  #e6e7e9;
 
 }
@@ -75,8 +82,8 @@ a{
   width: 250px;
   height: 40px;
   border-radius: 10px;
-  font-size: 22px;
-  font-family:"Sofia", sans-serif;
+  font-size: 19px;
+  font-family:'Courier New', Courier, monospace;
   border-color:  #e6e7e9;
 
 }
@@ -89,8 +96,8 @@ a{
   width: 170px;
   height: 40px;
   border-radius: 10px;
-  font-size: 22px;
-  font-family:"Sofia", sans-serif;
+  font-size: 19px;
+  font-family:'Courier New', Courier, monospace;
   border-color:  #e6e7e9;
 
 }
@@ -103,7 +110,7 @@ a{
 #intro{
     display: flex;
     font-size: 40px;
-    font-family: "Sofia", sans-serif;
+    font-family:'Courier New', Courier, monospace;
     margin-left: 667px;
     margin-top: -370px;
     color: black;
@@ -125,11 +132,11 @@ a{
 .flex-container {
     display: flex;
     flex-direction: row;
-    font-family:"Sofia", sans-serif;
+    font-family:'Courier New', Courier, monospace;
     justify-content: center;
     
     font-size: 40px;
-    margin-top: 72px;
+    margin-top: 112px;
 }
 .one{
 margin-right: 142px;
@@ -183,7 +190,9 @@ transition: 0.7s;
   .flex-container2 {
     display: flex;
     flex-direction: row;
-    font-family:"Sofia", sans-serif;
+    font-family:'Courier New', Courier, monospace;
     font-size: 25px;
     color: #e6e7e9;
+    margin-left: -45px;
   }
+ 
