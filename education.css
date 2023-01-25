@@ -6,7 +6,7 @@
     
       
 body {
-  background: linear-gradient(to bottom,#d5efd4 30%, #f9f8d9 100%);
+ background: linear-gradient(to bottom,#d5efd4 30%, #f9f8d9 100%); 
 
 }
 #logo{
@@ -27,13 +27,6 @@ nav{
     padding: 108px;
 }
 
-a{
- text-decoration: none;
- color: black;
- 
-}
-
-
 
 .nav1{
   
@@ -42,11 +35,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav1:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -56,11 +50,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav2:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -70,11 +65,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav3:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -84,11 +80,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav4:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -98,19 +95,23 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav5:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
 
 h1{
+
   font-style: oblique;
-  margin-left: 984px;
-  margin-bottom: 590px;
+  font-size: 35px;
+  margin-left: 836px;
+  margin-bottom: 603px;
+  margin-top: 89px;
 
 }
 
@@ -180,6 +181,4 @@ margin-bottom: 60px;
 }
 .merge{
   display: flex;
-
-  
 }

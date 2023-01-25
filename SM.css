@@ -5,7 +5,8 @@
 
     
 body {
-  background: linear-gradient(to bottom, #e6e7e9 50%, #82e3ea 100%);
+
+  background-image: linear-gradient(to right, #ffafbd , #ffc3a0);
 }
 #logo{
   height:150px ;
@@ -18,18 +19,12 @@ body {
 nav{
 
   display: flex;
-    background-color: #e6e7e9;
+
     margin-left: 359px;
     margin-top: -98px;
     align-items: center;
     column-gap: 40px;
     padding: 108px;
-}
-
-a{
- text-decoration: none;
- color: black;
- 
 }
 
 .nav1{
@@ -39,11 +34,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav1:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -53,11 +49,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav2:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -67,11 +64,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav3:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -81,11 +79,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav4:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
@@ -95,11 +94,12 @@ a{
   border-radius: 10px;
   font-size: 19px;
   font-family:'Courier New', Courier, monospace;
-  border-color:  #e6e7e9;
+  border-color:  #000000;
 
 }
 .nav5:hover {
-  background-color:#009ead;
+  background-color:#000000;
+  color: #e6e7e9;
   transition: 0.9s;
 }
 
