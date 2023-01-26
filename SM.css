@@ -23,11 +23,26 @@ nav{
 
   display: flex;
 
-    margin-left: 359px;
+    margin-left: 259px;
     margin-top: -98px;
     align-items: center;
     column-gap: 40px;
     padding: 108px;
+}
+.nav0{
+
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 19px;
+  font-family:'Courier New', Courier, monospace;
+  border-color:  #000000;
+
+}
+.nav0:hover {
+  background-color:#000000;
+  color: #e6e7e9;
+  transition: 0.9s;
 }
 
 .nav1{
@@ -172,7 +187,7 @@ p{
  border-radius: 20px;
 }
 h1{
-  font-family:"Sofia", sans-serif;
+  font-family: "Sofia", sans-serif;
  color:  black;
  width: 500px;
  height: 300px;
@@ -182,7 +197,7 @@ h1{
  
 }
 h2{
-  font-family:"Sofia", sans-serif;
+  font-family: "Sofia", sans-serif;
   color:  black;
   margin-left: 1036px;
   margin-top: 197px;
