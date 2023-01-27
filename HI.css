@@ -32,21 +32,6 @@ nav{
     padding: 108px;
 }
 
-.nav0{
-
-  width: 100px;
-  height: 40px;
-  border-radius: 10px;
-  font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
-
-}
-.nav0:hover {
-  background-color:#000000;
-  color: #e6e7e9;
-  transition: 0.9s;
-}
 
 
 .nav1{

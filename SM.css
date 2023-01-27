@@ -29,21 +29,7 @@ nav{
     column-gap: 40px;
     padding: 108px;
 }
-.nav0{
 
-  width: 100px;
-  height: 40px;
-  border-radius: 10px;
-  font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
-
-}
-.nav0:hover {
-  background-color:#000000;
-  color: #e6e7e9;
-  transition: 0.9s;
-}
 
 .nav1{
   
@@ -120,72 +106,6 @@ nav{
   color: #e6e7e9;
   transition: 0.9s;
 }
-
-
-p{
-  color: black;
-  font-family: "Sofia", sans-serif;
-  font-size: 40px;
-  margin-left: 219px;
-  margin-top: 100px;
-}
-
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-
-}
-
-.bi{
-  padding: 15px;
-  font-size: 30px;
-  width: 90px;
-  height: 10px;
-  text-align: center;
-  text-decoration: none;
-}
-
-
-.fa:hover {
-  opacity: 0.7;
-}
-.bi:hover{
-  opacity: 0.7;
-}
-
-
-.fa-facebook {
-  background: #0f37c6;
-  color: white;
-  margin-left: 500px;
-}
-
-
-.bi-tiktok {
-  background: #000000;
-  color: white;
-  margin-left: 200px;
- 
-}
-
-.fa-linkedin {
-  background: #0392ff;
-  color: white;
-  margin-left: 200px;
-}
-
-.video{
-  width: 500px;
-  height: 529px;
-  margin-top: -56px;
-  margin-left: 246px;
-  background-color: #000000;
- border-radius: 20px;
-}
 h1{
   font-family: "Sofia", sans-serif;
  color:  black;
@@ -201,4 +121,90 @@ h2{
   color:  black;
   margin-left: 1036px;
   margin-top: 197px;
+}
+
+p{
+  color: black;
+  font-family: "Sofia", sans-serif;
+  font-size: 40px;
+  margin-left: 130px;
+  margin-top: 100px;
+}
+.contact{
+  margin-top: -61px;
+  margin-left: 900px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.bi{
+  padding: 20px;
+  text-align: center;
+
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+.bi:hover{
+  opacity: 0.7;
+}
+
+
+.fa-facebook {
+  background: #0f37c6;
+  color: white;
+  margin-left: 480px;
+  width: 18px;
+}
+
+
+.bi-tiktok {
+  background: #000000;
+  color: white;
+  margin-left: 100px;
+ 
+ 
+}
+
+.fa-linkedin {
+  background: #0392ff;
+  color: white;
+  margin-left: 100px;
+} 
+
+
+
+.video{
+  width: 500px;
+  height: 529px;
+  margin-top: -56px;
+  margin-left: 246px;
+  background-color: #000000;
+ border-radius: 20px;
+}
+
+.combine{
+  display: flex;
+}
+.first{
+margin-left:-348px;
+margin-top: 20px;
+}
+.second{
+margin-left: 292px;
+margin-top: 20px;
+}
+.copyright{
+  font-size: 20px;
+  margin-left: 480px;
+  margin-top: 30px;
+  font-family:'Courier New', Courier, monospace;
 }
