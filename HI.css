@@ -168,4 +168,30 @@ margin-top: -20px;
 font-size: 40px;
 
 }
+.paragraph{
+  font-size: 40px;
+  font-family:'Courier New', Courier, monospace;
+margin-left: 110px;
+margin-top: 70px;
+}
+.pp{
+  font-size: 40px;
+  font-family:'Courier New', Courier, monospace;
+margin-left: 990px;
+}
 
+.reference{
+  display: flex;
+  margin-left: 114px;
+  margin-top: 83px;
+  flex-direction: column;
+
+}
+.ref{
+  font-size: 40px;
+  font-family:'Courier New', Courier, monospace;
+}
+.refref{
+  margin-right: 850px;
+
+}
