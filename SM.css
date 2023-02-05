@@ -5,10 +5,6 @@
 
     
 body {
-
-  
-  
-  
   background-image: linear-gradient(to right, #43c6ac , #f8ffae);
 }
 #logo{
@@ -106,33 +102,37 @@ nav{
   color: #e6e7e9;
   transition: 0.9s;
 }
+.statement{
+  display: flex;
+}
+.video{
+  display: flex;
+  width: 2754px;
+  height: 500px;
+  margin-top: -56px;
+  margin-left: 226px;
+  margin-right: 130px;
+  background-color: #000000;
+  border-radius: 20px;
+}
 h1{
-  font-family: "Sofia", sans-serif;
- color:  black;
- width: 500px;
- height: 300px;
- margin-left: 816px;
- margin-top: -540px;
-
- 
-}
-h2{
-  font-family: "Sofia", sans-serif;
-  color:  black;
-  margin-left: 1036px;
-  margin-top: 197px;
-}
-
-p{
+  display: flex;
   color: black;
-  font-family: "Sofia", sans-serif;
+  font-family: 'Courier New', Courier, monospace;
+  margin-right: 76px;
+  margin-top: -28px;
+}
+
+.sm,p {
+  color: black;
+  font-family:'Courier New', Courier, monospace;
   font-size: 40px;
   margin-left: 130px;
   margin-top: 100px;
 }
 .contact{
-  margin-top: -61px;
-  margin-left: 900px;
+  margin-top: 98px;
+  margin-left: 266px;
 }
 
 .fa {
@@ -182,17 +182,14 @@ p{
 
 
 
-.video{
-  width: 500px;
-  height: 529px;
-  margin-top: -56px;
-  margin-left: 246px;
-  background-color: #000000;
- border-radius: 20px;
-}
 
+.partition{
+  display: flex;
+  margin-left: 90px;
+}
 .combine{
   display: flex;
+  margin-left: 84px;
 }
 .first{
 margin-left:-348px;
@@ -204,7 +201,7 @@ margin-top: 20px;
 }
 .copyright{
   font-size: 20px;
-  margin-left: 480px;
+  margin-left: 511px;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
 }

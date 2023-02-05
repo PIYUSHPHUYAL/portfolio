@@ -1,129 +1,133 @@
-*{
-    margin: 0;
-    padding: 0;
-    }
-
-  
-      
-body {
-
-
-  
-
-  background: linear-gradient(to right,   #c0c0aa,   #1cefff);
+* {
+  margin: 0;
+  padding: 0;
 }
 
-#logo{
-  height:150px ;
+
+
+
+body {
+  background: linear-gradient(to right, #c0c0aa, #1cefff);
+}
+
+#logo {
+  height: 150px;
   width: 200px;
   margin-top: -10px;
   margin-right: 20px;
   margin-bottom: -10px;
   margin-left: -240px;
 }
-nav{
+
+nav {
 
   display: flex;
 
-    margin-left: 259px;
-    margin-top: -98px;
-    align-items: center;
-    column-gap: 40px;
-    padding: 108px;
+  margin-left: 259px;
+  margin-top: -98px;
+  align-items: center;
+  column-gap: 40px;
+  padding: 108px;
 }
 
 
 
-.nav1{
-  
+.nav1 {
+
   width: 100px;
   height: 40px;
   border-radius: 10px;
   font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
+  font-family: 'Courier New', Courier, monospace;
+  border-color: #000000;
 
 }
+
 .nav1:hover {
-  background-color:#000000;
+  background-color: #000000;
   color: #e6e7e9;
   transition: 0.9s;
 }
 
-.nav2{
+.nav2 {
   width: 130px;
   height: 40px;
   border-radius: 10px;
   font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
+  font-family: 'Courier New', Courier, monospace;
+  border-color: #000000;
 
 }
+
 .nav2:hover {
-  background-color:#000000;
+  background-color: #000000;
   color: #e6e7e9;
   transition: 0.9s;
 }
 
-.nav3{
+.nav3 {
   width: 130px;
   height: 40px;
   border-radius: 10px;
   font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
+  font-family: 'Courier New', Courier, monospace;
+  border-color: #000000;
 
 }
+
 .nav3:hover {
-  background-color:#000000;
+  background-color: #000000;
   color: #e6e7e9;
   transition: 0.9s;
 }
 
-.nav4{
+.nav4 {
   width: 250px;
   height: 40px;
   border-radius: 10px;
   font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
+  font-family: 'Courier New', Courier, monospace;
+  border-color: #000000;
 
 }
+
 .nav4:hover {
-  background-color:#000000;
+  background-color: #000000;
   color: #e6e7e9;
   transition: 0.9s;
 }
 
-.nav5{
+.nav5 {
   width: 170px;
   height: 40px;
   border-radius: 10px;
   font-size: 19px;
-  font-family:'Courier New', Courier, monospace;
-  border-color:  #000000;
+  font-family: 'Courier New', Courier, monospace;
+  border-color: #000000;
 
 }
+
 .nav5:hover {
-  background-color:#000000;
+  background-color: #000000;
   color: #e6e7e9;
   transition: 0.9s;
 }
 
 
-.HI{
+.HI {
   display: flex;
   flex-direction: row;
   column-gap: 50px;
   text-align: center;
   font-size: 15px;
-  font-family:'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
 
 }
-.hobbies{
+
+.hobbies {
 
 
-  background: linear-gradient(to right,   #c0c0aa,   #1cefff);
+  background: linear-gradient(to right, #c0c0aa, #1cefff);
   color: #000000;
   width: 800px;
   height: 850px;
@@ -134,64 +138,72 @@ nav{
 }
 
 
-.first{
-
-  height: 500px;
-  width: 500px;
-}
-.interests{
-
-  background: linear-gradient(to right,   #c0c0aa,   #1cefff);
-color: #000000;
-width: 800px;
-height: 850px;
-border-radius: 30px;
-margin-left: 100px;
-margin-top: 5px;
-
-}
-.second{
+.first {
 
   height: 500px;
   width: 500px;
 }
 
-.h, .i{
+.interests {
+
+  background: linear-gradient(to right, #c0c0aa, #1cefff);
+  color: #000000;
+  width: 800px;
+  height: 850px;
+  border-radius: 30px;
+  margin-left: 100px;
+  margin-top: 5px;
+
+}
+
+.second {
+
+  height: 500px;
+  width: 500px;
+}
+
+.h,
+.i {
   margin-top: 20px;
   font-size: 30px;
   color: #000000;
 }
 
 
-.hh, .ii{
-margin-top: -20px;
-font-size: 40px;
+.hh,
+.ii {
+  margin-top: -20px;
+  font-size: 40px;
 
 }
-.paragraph{
+
+.paragraph {
   font-size: 40px;
-  font-family:'Courier New', Courier, monospace;
-margin-left: 110px;
-margin-top: 70px;
-}
-.pp{
-  font-size: 40px;
-  font-family:'Courier New', Courier, monospace;
-margin-left: 990px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 110px;
+  margin-top: 70px;
 }
 
-.reference{
+.pp {
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 990px;
+}
+
+.reference {
   display: flex;
   margin-left: 114px;
   margin-top: 83px;
   flex-direction: column;
 
 }
-.ref{
+
+.ref {
   font-size: 40px;
-  font-family:'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
 }
-.refref{
+
+.refref {
   margin-right: 850px;
 
 }
